@@ -1,0 +1,9 @@
+pprint
+requests
+pandas
+pickle
+numpy
+matplotlib
+sklearn
+azure-storage-blob
+sql-alchemy
