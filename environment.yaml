@@ -1,0 +1,7 @@
+name: intermediate-python-dataengineers
+dependencies:
+  - python=3.9.4
+  - ipykernel
+  - pip
+  - pip:
+    - -r requirements.txt
