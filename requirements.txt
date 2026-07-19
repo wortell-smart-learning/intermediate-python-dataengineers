@@ -1,9 +1,7 @@
-pprint
 requests
 pandas
-pickle
 numpy
 matplotlib
-sklearn
+scikit-learn
 azure-storage-blob
-sql-alchemy
+sqlalchemy
